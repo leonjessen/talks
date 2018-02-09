@@ -14,4 +14,4 @@ How to organize a project
 
 #### The most important talk you never heard!
 
-Hackinars in Bioinformatics<br> February 8th 2018<br> [Presentation](presentations/20180208_hackinar_project_organisation.pdf)
+Hackinars in Bioinformatics<br> February 8th 2018<br> [Presentation](https://github.com/leonjessen/talks/raw/master/presentations/20180208_hackinar_project_organisation.pdf)
