@@ -2,6 +2,15 @@ Publicly Available Talks
 ================
 Leon Eyrich Jessen, PhD
 
+Deep Learning with R for Modelling Molecular Interactions
+---------------------------------------------------------
+
+#### The Keras/TensorFlow framework
+
+Intelligent Cloud Conference 2018, Copenhagen, Denmark
+May 20th 2018
+[Presentation](http://htmlpreview.github.io/?https://github.com/leonjessen/talks/blob/master/presentations/ICC_2018.html)
+
 Tidy Talk
 ---------
 
