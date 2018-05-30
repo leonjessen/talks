@@ -7,7 +7,7 @@ Deep Learning with R for Modelling Molecular Interactions
 
 #### The Keras/TensorFlow framework
 
-Intelligent Cloud Conference 2018, Copenhagen, Denmark<br> May 20th 2018<br> [Presentation](http://htmlpreview.github.io/?https://github.com/leonjessen/talks/blob/master/presentations/ICC_2018.html)
+Intelligent Cloud Conference 2018, Copenhagen, Denmark<br> May 20th 2018<br> [Presentation](http://rpubs.com/leonjessen/ICC_2018)
 
 Tidy Talk
 ---------
