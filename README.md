@@ -2,12 +2,26 @@ Publicly Available Talks
 ================
 Leon Eyrich Jessen, PhD
 
+NetTCR: Towards Accurate Prediction of T-cell Targets using Deep Learning
+-------------------------------------------------------------------------
+
+#### Applications of R For Biomedical Research
+
+The first annual R/Pharma conference, Invited talk day 2, Harvard, Cambridge MA, USA<br> August 16th 2018<br> [Conference Wesite](http://rinpharma.com/) [Presentation]()
+
+Deep Learning with R using TensorFlow via Keras
+-----------------------------------------------
+
+#### The Keras/TensorFlow framework
+
+WhyR Conference 2018, keynote day 2, Wroclaw, Poland<br> July 4th 2018<br> [Conference Wesite](http://whyr2018.pl/) [Presentation](http://rpubs.com/leonjessen/whyR_2018)
+
 Deep Learning with R for Modelling Molecular Interactions
 ---------------------------------------------------------
 
 #### The Keras/TensorFlow framework
 
-Intelligent Cloud Conference 2018, Copenhagen, Denmark<br> May 20th 2018<br> [Presentation](http://rpubs.com/leonjessen/ICC_2018)
+Intelligent Cloud Conference 2018, Copenhagen, Denmark<br> May 20th 2018<br> [Conference Wesite](https://intelligentcloud.dk/) [Presentation](http://rpubs.com/leonjessen/ICC_2018)
 
 Tidy Talk
 ---------
